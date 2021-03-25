@@ -1,0 +1,10 @@
+A= int(input("Hello pilot! Give us your current Altitude:"))
+
+if A <=  3000:
+        print("Deploy landing gear and slow down for landing")
+    
+elif A < 3000:
+       print("Slow Down") 
+       
+else:
+        print("Please turn around and descend to 3000ft")
